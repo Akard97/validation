@@ -1,4 +1,5 @@
 ﻿{
   "StatusR": "false",
-  "ClipB": "false"
+  "ClipB": "false",
+   "running" : true
 }
